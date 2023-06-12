@@ -1,0 +1,10 @@
+* hunchentoot-cgi
+
+Run CGI scripts from the hunchentoot web server
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/slyrus/hunchentoot-cgi.git   |
+| commit  | 75870a0  |
+| systems | hunchentoot-cgi |
+|---------+-------------------------------------------|
+
